@@ -1,9 +1,9 @@
 'use client'
 
-import { useEffect, useId, useState } from 'react'
-import Image from 'next/image'
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from '@headlessui/react'
 import clsx from 'clsx'
+import Image from 'next/image'
+import { useEffect, useId, useState } from 'react'
 
 import { Container } from '@/components/Container'
 import { DiamondIcon } from '@/components/DiamondIcon'
@@ -28,7 +28,7 @@ import waylonHydenImage from '@/images/avatars/waylon-hyden.jpg'
 
 const days = [
   {
-    name: 'Opening Day',
+    name: 'Opening Day 2',
     date: 'April 4',
     dateTime: '2022-04-04',
     speakers: [
