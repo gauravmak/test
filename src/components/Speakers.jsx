@@ -29,7 +29,7 @@ import waylonHydenImage from '@/images/avatars/waylon-hyden.jpg'
 const days = [
   {
     name: 'Opening Day',
-    date: 'April 4',
+    date: 'Nov 17',
     dateTime: '2022-04-04',
     speakers: [
       {
