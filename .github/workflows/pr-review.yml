@@ -1,8 +1,7 @@
 name: Code Review
 
 on:
-  issue_comment:
-    types: [created, edited]
+  issue_comment
 
 jobs:
   code-review:
