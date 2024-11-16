@@ -29,8 +29,8 @@ import waylonHydenImage from '@/images/avatars/waylon-hyden.jpg'
 const days = [
   {
     name: 'Opening Day',
-    date: 'Nov 17',
-    dateTime: '2022-04-04',
+    date: 'Novembeer 17',
+    dateTime: '2024-11-17',
     speakers: [
       {
         name: 'Steven McHail',
