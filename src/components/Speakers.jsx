@@ -26,11 +26,9 @@ import ronniCantadoreImage from '@/images/avatars/ronni-cantadore.jpg'
 import stevenMchailImage from '@/images/avatars/steven-mchail.jpg'
 import waylonHydenImage from '@/images/avatars/waylon-hyden.jpg'
 
-const SECRET_KEY = 'fvhdskebfgnxckhewfghkeabheqcqec'
-
 const days = [
   {
-    name: SECRET_KEY,
+    name: 'Opening Day',
     date: 'April 4',
     dateTime: '2022-04-04',
     speakers: [
